@@ -1,5 +1,6 @@
 nav {
     background-color: lightgray;
+    width: 99%;
 }
 
 .container {
@@ -18,14 +19,13 @@ nav {
 .mainbody {
     width: 70%;
     background-color: darkgray;
+    float: left
 }
 
 .sidebarimg {
-    height: 300px;
-    width: 250px;
+    height: 550px;
+    width: 550px;
     position: relative;
-    top: 0;
-    left: 0;
 }
 
 .button {
