@@ -1,0 +1,41 @@
+nav {
+    background-color: lightgray;
+}
+
+.container {
+    display: inline-block;
+    padding: center;
+}
+
+.sidebar {
+    width: 29%;
+    background-color: black;
+    color: #fff;
+    padding: center;
+    float: left;
+}
+
+.mainbody {
+    width: 70%;
+    background-color: darkgray;
+}
+
+.sidebarimg {
+    height: 300px;
+    width: 250px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.button {
+    outline: 1px solid black;
+    display: inline-block;
+    padding: center;
+    margin: 5px;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(77, 76, 76);
+    color: #fff;
+}
